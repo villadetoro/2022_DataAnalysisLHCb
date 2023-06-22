@@ -9,3 +9,5 @@ Lastly, the ratios for the differential cross-section times the branching fracti
 , show that these ratios
 are not dependant on the pseudorapidity but will increase when increasing the transverse momentum of the muon pair. This statement is in
 concordance with the studies already done on this data set found in the literature.
+
+Project partner: @dgeorgescu1
